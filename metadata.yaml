@@ -1,0 +1,34 @@
+_repo: Sweet-Cicely---or-Josiah-Allen-as-a-Politician_7251
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7251/7251-h/images/inside_covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Holley, Marietta
+    alias: Josiah Allen's wife
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '1194'
+    url: http://www.gutenberg.org/2009/agents/1194
+    wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Temperance and religion -- Fiction'
+- !lcsh 'Methodist Church (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women -- Suffrage -- Fiction'
+- GITenberg
+title: Sweet Cicely — or Josiah Allen as a Politician
+url: http://www.gutenberg.org/ebooks/7251
