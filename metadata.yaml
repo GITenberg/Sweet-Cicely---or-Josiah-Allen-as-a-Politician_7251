@@ -1,10 +1,8 @@
 _repo: Sweet-Cicely---or-Josiah-Allen-as-a-Politician_7251
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 7251/7251-h/images/inside_covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 7251-h/images/inside_covers.jpg
 creator:
   author:
     agent_name: Holley, Marietta
@@ -15,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1194
     wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7251#Sweet-Cicely---or-Josiah-Allen-as-a-Politician
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
